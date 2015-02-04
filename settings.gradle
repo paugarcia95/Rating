@@ -1,0 +1,1 @@
+include ':app', ':adapters', ':customadapter', ':mapactivity', ':fragments', ':drawer', ':daomodule', ':supercamera', ':parse', ':parsetwitter'
