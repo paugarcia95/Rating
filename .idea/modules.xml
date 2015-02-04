@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/daomodule/daomodule.iml" filepath="$PROJECT_DIR$/daomodule/daomodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawer/drawer.iml" filepath="$PROJECT_DIR$/drawer/drawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragments/fragments.iml" filepath="$PROJECT_DIR$/fragments/fragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsoup/jsoup.iml" filepath="$PROJECT_DIR$/jsoup/jsoup.iml" />
       <module fileurl="file://$PROJECT_DIR$/mapactivity/mapactivity.iml" filepath="$PROJECT_DIR$/mapactivity/mapactivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/parse/parse.iml" filepath="$PROJECT_DIR$/parse/parse.iml" />
       <module fileurl="file://$PROJECT_DIR$/parsetwitter/parsetwitter.iml" filepath="$PROJECT_DIR$/parsetwitter/parsetwitter.iml" />
